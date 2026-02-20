@@ -28,6 +28,10 @@ section[epub|type~="dedication"] > *{
 	}
 }
 
+section[epub|type~="dedication"] p{
+	font-variant: small-caps;
+}
+
 p span.i1{
 	padding-left: 2em;
 	text-indent: -1em;
