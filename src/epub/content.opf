@@ -42,10 +42,11 @@
 		<meta property="authority" refines="#subject-4">LCHS</meta>
 		<meta property="term" refines="#subject-4">sh2008111805</meta>
 		<meta property="se:subject">Fiction</meta>
+    <meta property="se:subject">Children’s</meta>
 		<dc:description id="description">An orphan discovers the joys of nature and found family in the Limberlost swamp.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;The titular &lt;i&gt;Freckles&lt;/i&gt; is an orphan missing his right hand who has run away from the future the orphanage set for him in favor of making his own. After finding his way to the Limberlost, an area of swamp land in Indiana. He finds a job, conducts himself with honor and finds love, family, and joy in the swamp. The swamp, however, is not without its dangers and he must stay vigilant to protect those that are dear to him.&lt;/p&gt;
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/gene-stratton-porter"&gt;Gene Stratton-Porter&lt;/a&gt; had great success with &lt;i&gt;Freckles&lt;/i&gt; and its follow up, &lt;i&gt;A Girl of the Limberlost&lt;/i&gt;. &lt;i&gt;Freckles&lt;/i&gt; itself would go on to see five separate film adaptations as well as an adaptation into a Japanese manga series, &lt;i lang="ja"&gt;Sobakasu no Shōnen&lt;/i&gt;.&lt;/p&gt;
+			&lt;p&gt;The titular &lt;i&gt;Freckles&lt;/i&gt; is an orphan missing his right hand who has run away from the future the orphanage set for him in favor of making his own. After finding his way to the Limberlost, an area of swamp land in Indiana, he finds a job, conducts himself with honor and finds love, family, and joy in the swamp. The swamp, however, is not without its dangers and he must stay vigilant to protect those that are dear to him.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/gene-stratton-porter"&gt;Gene Stratton-Porter&lt;/a&gt; had great success with &lt;i&gt;Freckles&lt;/i&gt; and its follow up, &lt;i&gt;A Girl of the Limberlost&lt;/i&gt;. &lt;i&gt;Freckles&lt;/i&gt; itself would go on to see five separate film adaptations as well as an adaptation into a Japanese manga series, &lt;i lang="ja-Latn"&gt;Sobakasu no Shōnen&lt;/i&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/111</dc:source>
